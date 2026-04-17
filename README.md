@@ -80,7 +80,7 @@ book-recommender/
 
 ## How the Project Was Created
 
-### Step 1: Data Exploration & Cleaning ([1_data_exploration.ipynb](.1_data_exploration.ipynb))
+### Step 1: Data Exploration & Cleaning ([1_data_exploration.ipynb](1_data_exploration.ipynb))
 
 **Objective:** Download the raw dataset, explore its structure, identify data quality issues, and prepare clean data for downstream processing.
 
@@ -103,7 +103,7 @@ book-recommender/
 
 ---
 
-### Step 2: Semantic Vector Search ([2_vector_search.ipynb](.2_vector_search.ipynb))
+### Step 2: Semantic Vector Search ([2_vector_search.ipynb](2_vector_search.ipynb))
 
 **Objective:** Build a vector database that enables semantic similarity search, allowing users to find books conceptually similar to their query.
 
@@ -124,7 +124,7 @@ book-recommender/
 
 ---
 
-### Step 3: Zero-Shot Text Classification ([3_text_classification.ipynb](.3_text_classification.ipynb))
+### Step 3: Zero-Shot Text Classification ([3_text_classification.ipynb](3_text_classification.ipynb))
 
 **Objective:** Automatically classify books as "Fiction" or "Non-fiction" using zero-shot classification, without requiring labeled training data.
 
@@ -149,7 +149,7 @@ book-recommender/
 
 ---
 
-### Step 4: Sentiment & Emotion Analysis ([4_sentiment_analysis.ipynb](.4_sentiment_analysis.ipynb))
+### Step 4: Sentiment & Emotion Analysis ([4_sentiment_analysis.ipynb](4_sentiment_analysis.ipynb))
 
 **Objective:** Extract emotional scores from book descriptions to enable users to sort books by tone (joyful, suspenseful, sad, etc.).
 
@@ -170,7 +170,7 @@ book-recommender/
 
 ---
 
-### Step 5: Web Application ([5_gradio_dashboard.py](.5_gradio_dashboard))
+### Step 5: Web Application ([5_gradio_dashboard.py](5_gradio_dashboard))
 
 **Objective:** Provide an intuitive, interactive interface that combines all previous steps into a unified recommendation engine.
 
