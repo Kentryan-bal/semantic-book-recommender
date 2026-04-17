@@ -204,10 +204,10 @@ Filter by category → Sort by tone → Display results as gallery
 ```
 
 ## Web Application
-<video width="100%" controls>
+[<video width="100%" controls>
   <source src="z_demo.mov" type="video/quicktime">
   Your browser does not support the video tag. <a href="z_demo.mov">Download demo video</a>
-</video>
+</video>](https://github.com/user-attachments/assets/3cc5c6fb-7771-45be-abdb-e11ac7f9fc89)
 
 ### Features
 ✨ **Semantic Search** - Find books by natural language description  
